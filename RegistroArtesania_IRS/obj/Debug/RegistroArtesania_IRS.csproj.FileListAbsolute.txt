@@ -27,3 +27,7 @@ C:\Users\alejandro\Desktop\Proyecto IngRequer\RegistroArtesania_IRS\obj\Debug\Re
 C:\Users\alejandro\Desktop\Proyecto IngRequer\RegistroArtesania_IRS\obj\Debug\RegistroArtesania_IRS.exe
 C:\Users\alejandro\Desktop\Proyecto IngRequer\RegistroArtesania_IRS\obj\Debug\RegistroArtesania_IRS.pdb
 C:\Users\alejandro\Desktop\Proyecto IngRequer\RegistroArtesania_IRS\obj\Debug\RegistroArtesania_IRS.frmLogin.resources
+C:\Users\alejandro\Desktop\Proyecto IngRequer\RegistroArtesania_IRS\bin\Debug\RegistroArtesania_IRS.exe.manifest
+C:\Users\alejandro\Desktop\Proyecto IngRequer\RegistroArtesania_IRS\bin\Debug\RegistroArtesania_IRS.application
+C:\Users\alejandro\Desktop\Proyecto IngRequer\RegistroArtesania_IRS\obj\Debug\RegistroArtesania_IRS.exe.manifest
+C:\Users\alejandro\Desktop\Proyecto IngRequer\RegistroArtesania_IRS\obj\Debug\RegistroArtesania_IRS.application
