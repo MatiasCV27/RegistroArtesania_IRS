@@ -15,6 +15,7 @@ namespace RegistroArtesania_IRS
     {
         public FrmRegistrarArtesania()
         {
+            
             InitializeComponent();
             AgregarEmpleados(); 
         }
@@ -63,6 +64,12 @@ namespace RegistroArtesania_IRS
         // Hacer la carga
         private void FrmRegistrarArtesania_Load(object sender, EventArgs e)
         {
+            
+            
+            
+
+
+
             dgvArtesanias.DataSource = Art.ListaArtesania(Con);
         }
 

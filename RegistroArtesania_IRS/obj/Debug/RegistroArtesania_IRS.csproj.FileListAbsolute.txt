@@ -26,3 +26,4 @@ C:\Users\alejandro\Desktop\Proyecto IngRequer\RegistroArtesania_IRS\obj\Debug\Re
 C:\Users\alejandro\Desktop\Proyecto IngRequer\RegistroArtesania_IRS\obj\Debug\RegistroArtesania_IRS.csproj.CopyComplete
 C:\Users\alejandro\Desktop\Proyecto IngRequer\RegistroArtesania_IRS\obj\Debug\RegistroArtesania_IRS.exe
 C:\Users\alejandro\Desktop\Proyecto IngRequer\RegistroArtesania_IRS\obj\Debug\RegistroArtesania_IRS.pdb
+C:\Users\alejandro\Desktop\Proyecto IngRequer\RegistroArtesania_IRS\obj\Debug\RegistroArtesania_IRS.frmLogin.resources
