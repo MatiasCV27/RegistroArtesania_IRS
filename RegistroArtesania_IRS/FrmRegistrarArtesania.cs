@@ -150,6 +150,7 @@ namespace RegistroArtesania_IRS
                 }
 
                 Limpiar();
+
             } catch (Exception ex) {
                 MessageBox.Show("Error al editar la artesanía: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
@@ -216,6 +217,11 @@ namespace RegistroArtesania_IRS
             {
                 e.Handled = true;
             }
+        }
+
+        private void FrmRegistrarArtesania_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            Application.Exit();
         }
     }
 }
