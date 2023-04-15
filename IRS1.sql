@@ -84,8 +84,8 @@ Create procedure sp_ModificaArtesania
 	@CodEmp			char(4),
 	@nombreEmp		varchar(30)
 As	
-update Artesanias set nombreArt = @nombreArt, estadoArt	= @nombreArt, fechRegis	= @fechRegis, descripArt = @descripArt,
-	precioArt = @precioArt, cantidadArt	= @cantidadArt, CodEmp = @CodEmp, nombreEmp = @nombreEmp
+update Artesanias set nombreArt = @nombreArt, estadoArt	= @estadoArt, fechRegis	= @fechRegis, descripArt = 
+	@descripArt, precioArt = @precioArt, cantidadArt	= @cantidadArt, CodEmp = @CodEmp, nombreEmp = @nombreEmp
 Where codArt = @codArt
 
 Select * From Artesanias
