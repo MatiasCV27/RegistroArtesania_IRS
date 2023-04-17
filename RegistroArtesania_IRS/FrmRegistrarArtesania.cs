@@ -200,6 +200,7 @@ namespace RegistroArtesania_IRS
             cboEstado.Items.Clear();
             cboEstado.Items.Add("Normal");
             cboEstado.Items.Add("Mermado");
+            dtpA.Value = DateTime.Now;
             txtNombreA.Focus();
         }
 
