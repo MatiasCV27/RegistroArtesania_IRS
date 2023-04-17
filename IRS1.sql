@@ -89,7 +89,7 @@ update Artesanias set nombreArt = @nombreArt, estadoArt	= @estadoArt, fechRegis	
 Where codArt = @codArt
 
 Select * From Artesanias
---DELETE FROM Artesanias 
+DELETE FROM Artesanias 
 --drop procedure sp_ModificaArtesania
 --drop procedure sp_CancelarRegistro;
 --drop procedure sp_ListaArtesania
